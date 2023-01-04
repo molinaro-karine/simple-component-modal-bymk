@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Modal from "./lib/Modal";
+import Modal from "./lib/components/Modal";
 
 export function Example() {
   const [displayModal, setDisplayModal] = useState(true);

@@ -1,4 +1,3 @@
-//libraries
 import React, { useEffect, useRef } from "react";
 
 //styles
